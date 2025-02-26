@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/University/Bio-inspired/BEAST/build/cmake_install.cmake",
+		"D:/University/Bio-inspired/BEAST/build/libs/cmake_install.cmake",
+		"D:/University/Bio-inspired/BEAST/build/apps/cmake_install.cmake",
+		"D:/University/Bio-inspired/BEAST/build/projects/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
